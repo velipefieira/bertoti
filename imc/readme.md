@@ -32,7 +32,7 @@ Elas são projetadas para ajudar designers e desenvolvedores a criar produtos qu
 <h4> É essencial que uma interface ofereça ao usuário uma interação consiste e padronizada em suas telas, para não causar confusões durante o seu uso, o que não foi apresentado nos seguintes exemplos: </h4>
 
 <h3> 😵 SIGA (Sistema Integrado de Gestão Acadêmica) - mais uma vez</h3>
-<img src="./siga (1).png" width="400px"/> <img src="./siga (2).png" width="400px"/>
+<div> <img src="./siga (1).png" width="400px"/> <img src="./siga (2).png" width="400px"/> </div>
 <h4> Em um carrosel de imagens, alguns possuem um link para o conteúdo da imagem, outros não, demostrando uma inconsistência entre os itens. </h4>
 
 <hr/>
@@ -105,10 +105,12 @@ Elas são projetadas para ajudar designers e desenvolvedores a criar produtos qu
 <h4> Uma interface deve transmitar as informações que o usuário procura, evitando um excesso de informações e buscando contrastes de cores que favoreçam a leitura do usuário, o que não foi apresentado no seguinte exemplo: </h4>
 
 <h3> ➗ IME - Unicamp</h3>
-<img src="./imeunicamp.png" width="450px"/>
-<img src="./imeunicamp (1).png" width="450px"/>
-<img src="./imeunicamp (2).png" width="450px"/>
-<img src="./imeunicamp (3).png" width="450px"/>
+<div>
+    <img src="./imeunicamp.png" width="450px"/>
+    <img src="./imeunicamp (1).png" width="450px"/>
+    <img src="./imeunicamp (2).png" width="450px"/>
+    <img src="./imeunicamp (3).png" width="450px"/>
+</div>
 
 <h4> Os sites apresentam cores bem fortes e brilhantes, que podem atrapalhar a leitura do menu lateral e seus indices em algumas páginas. O menu lateral está extremamente sobrecarregado de link e opções que sobrecarregam também o próprio usuário da interface </h4>
 
